@@ -1,6 +1,8 @@
 # Pomodoro Timer
 
 Projeto construído durante o curso **Frontstart**, desenvolvido pela **Isadora Stangarlin** ([isadorastan](https://github.com/isadorastan)), com o objetivo de aprender  os conceitos básicos de **Javascript**. 
+
+Para ver o projeto, [clique aqui!](https://raissamoreira.github.io/Pomodoro-Timer/)
 ![Projeto Preview](https://github.com/RaissaMoreira/Pomodoro-Timer/blob/master/assets/Pomodoro-timer.PNG?raw=true)
 
 ### O que é a técnica Pomodoro?
